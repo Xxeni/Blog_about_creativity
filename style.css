@@ -421,25 +421,8 @@
    height: 20px;
  }
  
- .icon-twitter {  
-   background-image: url(https://netology-code.github.io/html-2-diploma/sources/images/social/004-twitter.svg);
-   background-size: 25px;
- }
- 
  .icon-pinterest {
    background-image: url(https://netology-code.github.io/html-2-diploma/sources/images/social/001-pinterest.svg);
- }
- 
- .icon-facebook {
-   background-image: url(https://netology-code.github.io/html-2-diploma/sources/images/social/002-facebook-logo.svg);
- }
- 
- .icon-instagram {
-   background-image: url(https://netology-code.github.io/html-2-diploma/sources/images/social/005-instagram.svg);
- }
- 
- .icon-tumblr {
-   background-image: url(https://netology-code.github.io/html-2-diploma/sources/images/social/003-tumblr.svg);
  }
  
  .container-footer {
